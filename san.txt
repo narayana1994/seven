@@ -1,3 +1,6 @@
 helo
 hai
 hru:
+hi 
+am good
+how r u
